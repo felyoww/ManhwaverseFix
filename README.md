@@ -1,6 +1,10 @@
 # manhwaverse
 
-A new Flutter project.
+Manhwaverse is an app for listing my favourite manhwa/manga (comic) so that I can remember it in the future.
+
+
+![image](https://github.com/user-attachments/assets/6b6a43a7-5bd9-4db5-a5bb-c6b1ff4686be)
+
 
 ## Getting Started
 
